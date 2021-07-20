@@ -160,7 +160,7 @@
         </v-icon>
       </v-btn>
     </div>
-    <div class="pa-2 text-right text-caption" @click="tgm3()">
+    <div class="pa-2 text-right text-caption">
       © 2021 實況主零食之家 All Rights Reserved
     </div>
   </v-app>
@@ -221,15 +221,6 @@ export default {
       });
       this.imgOutput = canvas.toDataURL('image/png');
       this.openScreenshot = true;
-    },
-    tgm3() {
-      set('S', ['hy-potato', 'hot-corn', 'cadina', 'hy-corn', 'karamujo-cup', 'karamujo', 'imei-choco', 'meiji-kinoko', 'puff-choco', 'imei-almond', 'kuai-yellow', 'peacock-cookie', 'northsea-thin', 'squid'], customStore);
-      set('A', ['poka-talk', 'hy-vegetable', 'uni-science', 'uni-science-chicken', 'what', 'bull', 'shrimps', 'peacock-biscuit', 'eggroll-original', 'eggroll-sesame', 'stick-pockey', 'orion-marine', 'kinder-bueno', 'ferrero', 'french-choco', 'lotte-custard', 'wafer-peanuts', 'puff-milk', 'kako'], customStore);
-      set('B', ['doritos-cheese', 'cardina-steak', 'luckystars', 'squid-spicy', 'cadina-baokaka', 'lays-origin', 'lays-nari', 'babystar', 'lays-sour', 'peacock-coffee', 'lonelygod', 'ww', 'crab', 'kobayashi', 'koala-choco', 'lotte-choco', 'fluet-choco', 'kaui-red', 'kao', 'kao-vege', 'chicken', 'french-milk', 'french-strawberry', 'skittles', 'nutrition-biscuit', 'imei-cookie-almond'], customStore);
-      set('C', ['imei-gummy', 'cheetos', 'prince-lg', 'umai', 'koikeya-corn', 'stick-city', 'fluet-helthful', 'fys-roll', 'puff-stawberry', 'ww-ball', 'mms-peanut', 'mms-mini', '77-choco', '77-tappl'], customStore);
-      set('D', ['prince-sm', 'babystar-thick', 'doritos-spicy', 'doritos-nacho', 'pea-old', 'corn', 'sis-jp', 'kuai-green', 'fluet-strawberry', 'toblerone', 'oreo', 'ritz', 'kinder-choco'], customStore);
-      set('E', ['northsea-thick', 'lays-deepshrimp', 'nutrition-mini', 'kinder-surprise', 'snickers', 'sweetpotato'], customStore);
-      set('F', ['meiji-takenoko', 'ww-snow'], customStore);
     },
     changeTier({ added, moved, removed }, val) {
       if (!val) {
