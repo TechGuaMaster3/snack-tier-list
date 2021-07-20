@@ -44,6 +44,10 @@
         "name": "模範生點心麵"
     },
     {
+        "id": "babystar-small",
+        "name": "模範生點心麵 (五入小包裝)"
+    },
+    {
         "id": "babystar-spicy",
         "name": "模範生點心麵-香辣"
     },
@@ -169,11 +173,15 @@
     },
     {
         "id": "karamujo-cup",
-        "name": "卡拉姆久洋芋條"
+        "name": "咔辣姆久洋芋條"
     },
     {
         "id": "karamujo",
-        "name": "卡拉姆久洋芋片"
+        "name": "咔辣姆久洋芋片"
+    },
+    {
+        "id": "karamujo-thick",
+        "name": "咔辣姆久洋芋片厚切"
     },
     {
         "id": "kinder-bueno",
@@ -224,8 +232,20 @@
         "name": "樂事-海苔"
     },
     {
+        "id": "lays-box-origin",
+        "name": "樂事盒裝-原味"
+    },
+    {
+        "id": "lays-box-nari",
+        "name": "樂事盒裝-海苔"
+    },
+    {
+        "id": "lays-box-chicken",
+        "name": "樂事盒裝-雞汁"
+    },
+    {
         "id": "lays-sour",
-        "name": "樂事-奶焗香蔥"
+        "name": "樂事盒裝-奶焗香蔥"
     },
     {
         "id": "lays-deepchicken",
@@ -513,7 +533,7 @@
     },
     {
         "id": "wafer-peanuts",
-        "name": "新貴派-巧克力花生"
+        "name": "新貴派-花生"
     },
     {
         "id": "wafer-stawberry",
