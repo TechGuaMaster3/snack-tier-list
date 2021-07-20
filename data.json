@@ -1,0 +1,666 @@
+[
+    {
+        "id": "77-choco",
+        "name": "77乳加巧克力"
+    },
+    {
+        "id": "77-tappl",
+        "name": "77大波露巧克力"
+    },
+    {
+        "id": "77-choffers",
+        "name": "巧菲斯"
+    },
+    {
+        "id": "77-soccer",
+        "name": "哈哈球(足球巧克力)"
+    },
+    {
+        "id": "tzylu-choco",
+        "name": "滋露奶油巧克力"
+    },
+    {
+        "id": "tzylu-strawberry",
+        "name": "滋露草莓巧克力"
+    },
+    {
+        "id": "snickers",
+        "name": "士力架"
+    },
+    {
+        "id": "mms-peanut",
+        "name": "M&M's 花生巧克力"
+    },
+    {
+        "id": "mms-mini",
+        "name": "M&M's 迷你巧克力"
+    },
+    {
+        "id": "skittles",
+        "name": "彩虹糖"
+    },
+    {
+        "id": "babystar",
+        "name": "模範生點心麵"
+    },
+    {
+        "id": "babystar-small",
+        "name": "模範生點心麵 (五入小包裝)"
+    },
+    {
+        "id": "babystar-spicy",
+        "name": "模範生點心麵-香辣"
+    },
+    {
+        "id": "sis-spicy",
+        "name": "張君雅小妹妹-墨西哥辣雞點心麵"
+    },
+    {
+        "id": "babystar-thick",
+        "name": "星太郎/模範生點心麵-寬麵"
+    },
+    {
+        "id": "sis-chicken",
+        "name": "張君雅小妹妹-雞汁寬麵"
+    },
+    {
+        "id": "bandai-shin",
+        "name": "可愛怪獸巧克力風味餅"
+    },
+    {
+        "id": "cadina-baokaka",
+        "name": "寶咖咖"
+    },
+    {
+        "id": "cadina",
+        "name": "卡迪那茄汁薯條"
+    },
+    {
+        "id": "cardina-steak",
+        "name": "卡迪那牛排洋芋片"
+    },
+    {
+        "id": "cheetos",
+        "name": "奇多"
+    },
+    {
+        "id": "doritos-cheese",
+        "name": "多力多滋-黃金起司"
+    },
+    {
+        "id": "doritos-nacho",
+        "name": "多力多滋-超濃起司"
+    },
+    {
+        "id": "doritos-spicy",
+        "name": "多力多滋-美式辣起司"
+    },
+    {
+        "id": "eggroll-original",
+        "name": "原味蛋捲"
+    },
+    {
+        "id": "eggroll-sesame",
+        "name": "芝麻蛋捲"
+    },
+    {
+        "id": "fys-roll",
+        "name": "福義軒 手工芝麻蛋捲"
+    },
+    {
+        "id": "serena-roll",
+        "name": "喜年來蛋捲"
+    },
+    {
+        "id": "bb-rubera",
+        "name": "BOURBON 奶油蛋捲"
+    },
+    {
+        "id": "fluet-choco",
+        "name": "小瓜呆脆笛酥-巧克力"
+    },
+    {
+        "id": "fluet-strawberry",
+        "name": "小瓜呆脆笛酥-草莓"
+    },
+    {
+        "id": "fluet-helthful",
+        "name": "黑師傅捲心酥"
+    },
+    {
+        "id": "french-choco",
+        "name": "法蘭酥-巧克力"
+    },
+    {
+        "id": "french-milk",
+        "name": "法蘭酥-牛奶"
+    },
+    {
+        "id": "french-strawberry",
+        "name": "法蘭酥-草莓"
+    },
+    {
+        "id": "corn",
+        "name": "玉米濃湯"
+    },
+    {
+        "id": "hot-corn",
+        "name": "燒番麥"
+    },
+    {
+        "id": "hy-corn",
+        "name": "玉黍叔"
+    },
+    {
+        "id": "hy-potato",
+        "name": "蚵仔煎"
+    },
+    {
+        "id": "hy-vegetable",
+        "name": "鹹蔬餅"
+    },
+    {
+        "id": "hy-vege-garden",
+        "name": "蔬菜園"
+    },
+    {
+        "id": "hy-honeycomb",
+        "name": "薯格格"
+    },
+    {
+        "id": "bull",
+        "name": "金牛角"
+    },
+    {
+        "id": "karamujo-cup",
+        "name": "咔辣姆久洋芋條"
+    },
+    {
+        "id": "karamujo",
+        "name": "咔辣姆久洋芋片"
+    },
+    {
+        "id": "karamujo-thick",
+        "name": "咔辣姆久洋芋片厚切"
+    },
+    {
+        "id": "kinder-bueno",
+        "name": "健達繽紛樂"
+    },
+    {
+        "id": "kinder-choco",
+        "name": "健達巧克力"
+    },
+    {
+        "id": "kinder-joy",
+        "name": "健達奇趣蛋"
+    },
+    {
+        "id": "kinder-surprise",
+        "name": "健達出奇蛋"
+    },
+    {
+        "id": "koala-choco",
+        "name": "小熊(無尾熊)餅乾-巧克力"
+    },
+    {
+        "id": "koala-strawberry",
+        "name": "小熊(無尾熊)餅乾-草莓"
+    },
+    {
+        "id": "kaui-red",
+        "name": "乖乖-香濃巧克力"
+    },
+    {
+        "id": "kuai-green",
+        "name": "乖乖-奶油椰子"
+    },
+    {
+        "id": "kuai-yellow",
+        "name": "乖乖-五香"
+    },
+    {
+        "id": "lays-origin",
+        "name": "樂事-原味"
+    },
+    {
+        "id": "lays-cheese",
+        "name": "樂事-起司"
+    },
+    {
+        "id": "lays-nari",
+        "name": "樂事-海苔"
+    },
+    {
+        "id": "lays-box-origin",
+        "name": "樂事盒裝-原味"
+    },
+    {
+        "id": "lays-box-nari",
+        "name": "樂事盒裝-海苔"
+    },
+    {
+        "id": "lays-box-chicken",
+        "name": "樂事盒裝-雞汁"
+    },
+    {
+        "id": "lays-sour",
+        "name": "樂事盒裝-奶焗香蔥"
+    },
+    {
+        "id": "lays-deepchicken",
+        "name": "樂事-大波浪椒香嫩雞"
+    },
+    {
+        "id": "lays-deepshrimp",
+        "name": "樂事-大波浪蒜爆椒鹽蝦"
+    },
+    {
+        "id": "lonelygod",
+        "name": "浪味仙"
+    },
+    {
+        "id": "luckystars",
+        "name": "滿天星"
+    },
+    {
+        "id": "northsea-thick",
+        "name": "北海鱈魚香絲-粗"
+    },
+    {
+        "id": "northsea-thin",
+        "name": "北海鱈魚香絲-細"
+    },
+    {
+        "id": "oreo",
+        "name": "OREO"
+    },
+    {
+        "id": "peacock-cookie",
+        "name": "孔雀香酥脆"
+    },
+    {
+        "id": "peacock-coffee",
+        "name": "孔雀捲心餅-咖啡"
+    },
+    {
+        "id": "peacock-custard",
+        "name": "孔雀捲心餅-布丁"
+    },
+    {
+        "id": "peacock-biscuit",
+        "name": "孔雀餅乾"
+    },
+    {
+        "id": "pink-origin",
+        "name": "品客-原味 (新包裝)"
+    },
+    {
+        "id": "pink-pizza",
+        "name": "品客-披薩 (新包裝)"
+    },
+    {
+        "id": "pink-sour",
+        "name": "品客-洋蔥 (新包裝)"
+    },
+    {
+        "id": "pink-cheese",
+        "name": "品客-起司 (新包裝)"
+    },
+    {
+        "id": "pink-origin-old",
+        "name": "品客-原味 (舊包裝)"
+    },
+    {
+        "id": "pink-pizza-old",
+        "name": "品客-披薩 (舊包裝)"
+    },
+    {
+        "id": "pink-sour-old",
+        "name": "品客-洋蔥 (舊包裝)"
+    },
+    {
+        "id": "pink-cheese-old",
+        "name": "品客-起司 (舊包裝)"
+    },
+    {
+        "id": "poka-talk",
+        "name": "話匣子"
+    },
+    {
+        "id": "chessmen",
+        "name": "棋王奶油餅乾"
+    },
+    {
+        "id": "pepper-brussels",
+        "name": "布魯賽爾餅乾"
+    },
+    {
+        "id": "pepper-generva",
+        "name": "日內瓦餅乾"
+    },
+    {
+        "id": "pepper-milano",
+        "name": "米蘭餅乾"
+    },
+    {
+        "id": "walkers",
+        "name": "Walkers 蘇格蘭皇家奶油餅乾"
+    },
+    {
+        "id": "jl-beef",
+        "name": "Jack Link's 煙燻原味牛肉乾"
+    },
+    {
+        "id": "kirkland-chips",
+        "name": "科克蘭 玉米片"
+    },
+    {
+        "id": "koikeya-corn",
+        "name": "湖池屋北海道玉米濃湯洋芋片"
+    },
+    {
+        "id": "pop-chips",
+        "name": "Popcorners 爆米花脆片"
+    },
+    {
+        "id": "pop-smile",
+        "name": "卡滋爆米花"
+    },
+    {
+        "id": "puff-choco",
+        "name": "小泡芙-巧克力"
+    },
+    {
+        "id": "puff-milk",
+        "name": "小泡芙-牛奶"
+    },
+    {
+        "id": "puff-stawberry",
+        "name": "小泡芙-草莓"
+    },
+    {
+        "id": "imei-choco",
+        "name": "義美巧克力酥片"
+    },
+    {
+        "id": "pea-origin",
+        "name": "可樂果-原味"
+    },
+    {
+        "id": "pea-old",
+        "name": "可樂果-老朋友"
+    },
+    {
+        "id": "pea-hot",
+        "name": "可樂果-辣味"
+    },
+    {
+        "id": "shrimps",
+        "name": "蝦味先"
+    },
+    {
+        "id": "shrimp-spicy",
+        "name": "蝦味先-香辣"
+    },
+    {
+        "id": "what",
+        "name": "什麼玩意兒"
+    },
+    {
+        "id": "sis-jp",
+        "name": "張君雅小妹妹-日式串烤"
+    },
+    {
+        "id": "sis-nori",
+        "name": "張君雅小妹妹-海苔"
+    },
+    {
+        "id": "squid",
+        "name": "真魷味"
+    },
+    {
+        "id": "squid-spicy",
+        "name": "真魷味-非常香辣"
+    },
+    {
+        "id": "stick-city",
+        "name": "城市一族"
+    },
+    {
+        "id": "city-im",
+        "name": "城市一族x偶像大師"
+    },
+    {
+        "id": "stick-pockey",
+        "name": "Pocky"
+    },
+    {
+        "id": "nutella",
+        "name": "能多益巧克力棒隨手杯"
+    },
+    {
+        "id": "stick-meiji",
+        "name": "巧克力洋洋棒"
+    },
+    {
+        "id": "meiji-kinoko",
+        "name": "明治 香菇山"
+    },
+    {
+        "id": "meiji-takenoko",
+        "name": "明治 竹筍里"
+    },
+    {
+        "id": "meiji-black",
+        "name": "明治 黑巧克力"
+    },
+    {
+        "id": "meiji-milk",
+        "name": "明治 牛奶巧克力"
+    },
+    {
+        "id": "meiji-macadama",
+        "name": "明治 夏威夷豆巧克力"
+    },
+    {
+        "id": "imei-gummy",
+        "name": "葡萄QQ巧克球"
+    },
+    {
+        "id": "imei-almond",
+        "name": "杏仁巧克球"
+    },
+    {
+        "id": "maltesers",
+        "name": "麥提莎牛奶巧克力球"
+    },
+    {
+        "id": "ferrero",
+        "name": "金莎巧克力"
+    },
+    {
+        "id": "toblerone",
+        "name": "瑞士三角 牛奶巧克力"
+    },
+    {
+        "id": "bb-alfort",
+        "name": "BOURBON 帆船迷你巧克力餅乾"
+    },
+    {
+        "id": "bb-chocobiscuit",
+        "name": "BOURBON 巧克力夾心酥"
+    },
+    {
+        "id": "bb-milkbiscuit",
+        "name": "BOURBON 北海道牛奶風味威化餅"
+    },
+    {
+        "id": "bb-minichoco",
+        "name": "BOURBON 巧克力粒餅"
+    },
+    {
+        "id": "3brothers",
+        "name": "北海道薯條三兄弟"
+    },
+    {
+        "id": "umai",
+        "name": "玉米棒"
+    },
+    {
+        "id": "prince-sm",
+        "name": "小王子麵"
+    },
+    {
+        "id": "prince-lg",
+        "name": "王子麵"
+    },
+    {
+        "id": "uni-noodle",
+        "name": "統一脆麵"
+    },
+    {
+        "id": "uni-science",
+        "name": "統一科學麵"
+    },
+    {
+        "id": "uni-science-chicken",
+        "name": "統一科學麵-香蔥雞汁"
+    },
+    {
+        "id": "wafer-berry",
+        "name": "新貴派-藍莓"
+    },
+    {
+        "id": "wafer-peanuts",
+        "name": "新貴派-花生"
+    },
+    {
+        "id": "wafer-stawberry",
+        "name": "新貴派-草莓"
+    },
+    {
+        "id": "fc-kabuki",
+        "name": "歌舞伎揚餅"
+    },
+    {
+        "id": "kao",
+        "name": "自然の顏"
+    },
+    {
+        "id": "kao-vege",
+        "name": "蔬菜餅乾"
+    },
+    {
+        "id": "fys-soda",
+        "name": "福義軒 福椒蘇打餅"
+    },
+    {
+        "id": "onion",
+        "name": "農心洋蔥圈"
+    },
+    {
+        "id": "ritz",
+        "name": "麗滋餅乾"
+    },
+    {
+        "id": "ritz-lemon",
+        "name": "麗滋餅乾-檸檬"
+    },
+    {
+        "id": "kako",
+        "name": "可口奶滋"
+    },
+    {
+        "id": "digestive",
+        "name": "消化餅"
+    },
+    {
+        "id": "cw-garlic",
+        "name": "大蒜麵包餅乾"
+    },
+    {
+        "id": "gemez-enaak",
+        "name": "韓國小雞麵"
+    },
+    {
+        "id": "gemez-spicy",
+        "name": "韓國小雞麵-辣味"
+    },
+    {
+        "id": "turtle-corn",
+        "name": "烏龜玉米脆片"
+    },
+    {
+        "id": "turtle-spicy",
+        "name": "烏龜玉米脆片-麻辣"
+    },
+    {
+        "id": "orion-marine",
+        "name": "好多魚餅乾"
+    },
+    {
+        "id": "lotte-choco",
+        "name": "巧克力派"
+    },
+    {
+        "id": "lotte-custard",
+        "name": "蛋黃派"
+    },
+    {
+        "id": "chicken",
+        "name": "麥香雞塊"
+    },
+    {
+        "id": "crab",
+        "name": "大閘蟹"
+    },
+    {
+        "id": "imei-cookie-almond",
+        "name": "義美煎餅"
+    },
+    {
+        "id": "kobayashi",
+        "name": "小林煎餅"
+    },
+    {
+        "id": "neinei",
+        "name": "ㄋㄟㄋㄟ補給站"
+    },
+    {
+        "id": "nutrition-biscuit",
+        "name": "營養口糧"
+    },
+    {
+        "id": "nutrition-mini",
+        "name": "迷你口糧棒"
+    },
+    {
+        "id": "carrot-cookies",
+        "name": "菜脯餅"
+    },
+    {
+        "id": "sweetpotato",
+        "name": "蕃薯片"
+    },
+    {
+        "id": "airplane",
+        "name": "飛機餅乾"
+    },
+    {
+        "id": "pig-ear",
+        "name": "豬耳朵"
+    },
+    {
+        "id": "ww",
+        "name": "旺旺仙貝"
+    },
+    {
+        "id": "ww-ball",
+        "name": "旺仔小饅頭"
+    },
+    {
+        "id": "ww-snow",
+        "name": "旺旺雪餅"
+    }
+]
