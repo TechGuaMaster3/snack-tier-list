@@ -161,7 +161,7 @@
       </v-btn>
     </div>
     <div class="pa-2 text-right text-caption">
-      © 2021 實況主零食之家 All Rights Reserved
+      © 2021 實況主中途之家 技術部
     </div>
   </v-app>
 </template>
